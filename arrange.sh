@@ -7,5 +7,3 @@ done
 for i in {A..Z}
 do mv files/[$i]* "${i,,}"/
 done
-
-//ls files/[$i]* 
